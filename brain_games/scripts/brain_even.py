@@ -1,10 +1,13 @@
 import random
+import brain_games
 
 
-def game1():
+def main():
     print('answer "yes" if the number is even, otherwise answer "no".')
     corrects = 0
     while corrects < 3:
+        brain_games.main()
+
         num = random.randint(1, 25)
 
         if num % 2 == 1:
@@ -22,8 +25,8 @@ def game1():
             print(f"'{answer}' is wrong answer ;(. Correct answer was '{correct}'.\nLet's try again, Bill!")
             break
         if corrects == 3:
-            print('Congratulations, Sam!')
+            print('Congratulations, {name}')
 
 
 if __name__ == '__main__':
-    game1()
+    main()

@@ -1,7 +1,7 @@
-import prompt
+import prompt # type: ignore
 
 
-def welcome_user():
+def main():
     name = prompt.string('May I have your name? ')
     print(f"Hello, {name}")
 
@@ -15,4 +15,4 @@ def welcome_user():
 
 
 if __name__ == '__main__':
-    welcome_user()
+    main()
