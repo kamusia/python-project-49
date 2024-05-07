@@ -1,7 +1,9 @@
 import random
+import brain_games
 
 
 def main():
+    brain_games.main()
     print('answer "yes" if the number is even, otherwise answer "no".')
     corrects = 0
     while corrects < 3:
