@@ -1,12 +1,10 @@
 import random
-import brain_games
 
 
 def main():
     print('answer "yes" if the number is even, otherwise answer "no".')
     corrects = 0
     while corrects < 3:
-        brain_games.main()
 
         num = random.randint(1, 25)
 
