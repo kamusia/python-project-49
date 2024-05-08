@@ -1,5 +1,5 @@
 import random
-import brain_games
+from brain_games.scripts import brain_games
 
 
 def main():
