@@ -1,9 +1,10 @@
+import prompt # type: ignore
 import random
-from brain_games.scripts import brain_games
 
 
 def main():
-    brain_games.main()
+    name = prompt.string('May I have your name? ')
+    print(f"Hello, {name}")
     print('answer "yes" if the number is even, otherwise answer "no".')
     corrects = 0
     while corrects < 3:
@@ -22,10 +23,10 @@ def main():
             corrects += 1
             print('Correct!')
         else:
-            print(f"'{answer}' is wrong answer ;(. Correct answer was '{correct}'.\nLet's try again, Bill!")
+            print(f"'{answer}' is wrong answer ;(. Correct answer was '{correct}'.\nLet's try again, {name}!")
             break
         if corrects == 3:
-            print('Congratulations, {name}')
+            print(f'Congratulations, {name}')
 
 
 if __name__ == '__main__':

@@ -1,10 +1,12 @@
 import prompt # type: ignore
 
 
+name= ''
+
 def main():
     name = prompt.string('May I have your name? ')
     print(f"Hello, {name}")
-
+    return name
 
 # def welcome_user1():
 #    name = ''
