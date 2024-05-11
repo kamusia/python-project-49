@@ -1,30 +1,31 @@
 import random
 from brain_games import cli
 
+max_correct = 3
 
 def main():
-    name = cli.greeting()
+    name = cli.greeting() #приветствие
 
-    print('answer "yes" if the number is even, otherwise answer "no".')
+    print('answer "yes" if the number is even, otherwise answer "no".') #правила игры
+    
     corrects = 0
-    while corrects < 3:
+    while corrects < max_correct:
 
         num = random.randint(1, 25)
 
         if num % 2 == 1:
-            correct = 'yes'
+            correct_answer = 'yes'
         elif num % 2 == 0:
-            correct = 'no'
+            correct_answer = 'no'
 
         print(f'Question: {num}')
         answer = input('Your answer: ')
 
-        if answer == correct:
+        if cli.check_answer(answer, correct_answer, name) == True:
             corrects += 1
-            print('Correct!')
         else:
-            print(f"'{answer}' is wrong answer ;(. Correct answer was '{correct}'.\nLet's try again, {name}!")
             break
+
         if corrects == 3:
             print(f'Congratulations, {name}')
 
