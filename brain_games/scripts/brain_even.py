@@ -3,8 +3,8 @@ from brain_games import cli
 
 
 def main():
-    name = cli.greeting
-    
+    name = cli.greeting()
+
     print('answer "yes" if the number is even, otherwise answer "no".')
     corrects = 0
     while corrects < 3:

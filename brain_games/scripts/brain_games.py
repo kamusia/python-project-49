@@ -3,7 +3,7 @@ from brain_games import cli
 
 
 def main():
-    cli.greeting
+    cli.greeting()
 
 
 if __name__ == '__main__':
