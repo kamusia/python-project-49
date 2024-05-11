@@ -1,10 +1,10 @@
-import prompt # type: ignore
 import random
+from brain_games import cli
 
 
 def main():
-    name = prompt.string('May I have your name? ')
-    print(f"Hello, {name}")
+    name = cli.greeting
+    
     print('answer "yes" if the number is even, otherwise answer "no".')
     corrects = 0
     while corrects < 3:
