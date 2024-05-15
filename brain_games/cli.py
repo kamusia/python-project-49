@@ -14,6 +14,11 @@ def greeting(): #приветствие
 #        name = input()
 #        print(f"Hello, {name}")
 
+def get_answer(question):
+    print(f"Question: {question}")
+    answer = prompt.string("Your answer: ")
+    return answer
+
 def check_answer(answer, correct_answer, name): #проверка ответа
     if answer == correct_answer:
         print('Correct!')
