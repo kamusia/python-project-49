@@ -1,5 +1,5 @@
 import random
-from brain_games import cli
+
 
 rules = 'answer "yes" if the number is even, otherwise answer "no".'
 

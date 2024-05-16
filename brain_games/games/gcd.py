@@ -1,5 +1,5 @@
 import random
-from brain_games import cli
+
 
 rules = 'Find the greatest common divisor of given numbers.'
 

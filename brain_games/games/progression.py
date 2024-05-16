@@ -1,5 +1,5 @@
 import random
-from brain_games import cli
+
 
 rules = 'What number is missing in the progression?'
 
