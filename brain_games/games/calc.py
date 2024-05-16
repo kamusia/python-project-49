@@ -1,5 +1,5 @@
-from brain_games import cli
 import random
+from brain_games import cli
 
 
 plus_op = '+'
