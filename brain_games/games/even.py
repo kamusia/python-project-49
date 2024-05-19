@@ -3,6 +3,7 @@ import random
 
 rules = 'answer "yes" if the number is even, otherwise answer "no".'
 
+
 def run_game():
     num = random.randint(1, 25)
 
@@ -10,7 +11,7 @@ def run_game():
         correct = 'yes'
     elif num % 2 == 0:
         correct = 'no'
-    
+
     question = f'{num}'
 
     return question, correct

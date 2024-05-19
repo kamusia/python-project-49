@@ -6,9 +6,10 @@ minus_op = '-'
 multy_op = '*'
 max_correct = 3
 
-rules = 'What is the result of the expression?' #правила игры
+rules = 'What is the result of the expression?'  # правила игры
 
 ops = (plus_op, minus_op, multy_op)
+
 
 def run_game():
     random_num1 = random.randint(1, 100)
