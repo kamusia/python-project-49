@@ -16,7 +16,7 @@ def greeting():  # приветствие
 
 
 def get_answer(question):
-    print("Question: ", question)
+    print(f"Question: {question}")
     answer = prompt.string("Your answer: ")
     return answer
 
