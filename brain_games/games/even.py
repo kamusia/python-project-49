@@ -8,9 +8,9 @@ def run_game():
     num = random.randint(1, 25)
 
     if num % 2 == 1:
-        correct = 'yes'
-    elif num % 2 == 0:
         correct = 'no'
+    elif num % 2 == 0:
+        correct = 'yes'
 
     question = f'{num}'
 
