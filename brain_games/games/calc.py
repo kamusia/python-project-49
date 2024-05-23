@@ -1,14 +1,8 @@
 import random
 
 
-plus_op = '+'
-minus_op = '-'
-multy_op = '*'
-max_correct = 3
-
-rules = 'What is the result of the expression?'  # правила игры
-
-ops = (plus_op, minus_op, multy_op)
+rules = 'What is the result of the expression?'
+ops = ['+', '-', '*', '/']
 
 
 def run_game():
