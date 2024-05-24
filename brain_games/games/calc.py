@@ -2,7 +2,10 @@ import random
 
 
 rules = 'What is the result of the expression?'
-ops = ['+', '-', '*', '/']
+plus_op = '+'
+minus_op = '-'
+multy_op = '*'
+ops = [plus_op, minus_op, multy_op]
 
 
 def run_game():

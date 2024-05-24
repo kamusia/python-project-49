@@ -18,8 +18,7 @@ def game_run(game):
         if answer != correct:
             print(f"{answer} is wrong answer ;(.Correct answer was {correct}.")
             print(f"Let's try again, {name}!")
-            break
+            return
         print("Correct!")
         score += 1
-    if score == 3:
-        print(f"Congratulations, {name}!")
+    print(f"Congratulations, {name}!")
