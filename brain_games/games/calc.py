@@ -2,16 +2,13 @@ import random
 
 
 rules = 'What is the result of the expression?'
-PlusOp = '+'
-MinusOp = '-'
-MultyOp = '*'
-ops = [PlusOp, MinusOp, MultyOp]
+OPS = ('+', '-', '*')
 
 
 def run_game():
     random_num1 = random.randint(1, 100)
     random_num2 = random.randint(1, 100)
-    operation = random.choice(ops)
+    operation = random.choice(OPS)
 
     if operation == '+':
         correct = str(random_num1 + random_num2)
