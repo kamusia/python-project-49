@@ -17,21 +17,21 @@ To start playing, simply choose a game from the list above and follow the instru
 
 ### Installation
 1. Clone this repository to your local machine.
-'''
+```
 # via HTTPS:
 >> git clone https://github.com/IgorGakhov/python-project-lvl1.git
 # or via SSH
 >> git clone git@github.com:IgorGakhov/python-project-lvl1.git
-'''
+```
 2. install the package with commands.
-'''
+```
 >> poetry build
 >> python3 -m pip install --user dist/*.whl
-'''
+```
 3. Run the games using the command brain-<game_name>.
-'''
+```
 # example
 >> brain-even
-'''
+```
 
 Enjoy playing and improving your cognitive skills with Brain Games!
