@@ -8,12 +8,12 @@ def is_prime(num):
     stop = int(num**0.5)
     for i in range(2, stop + 1):
         if num % i == 0:
-            return 'no'
-    return 'yes'
+            return False
+    return True
 
 
 def run_game():
     num = random.randint(1, 100)
-    correct = is_prime(num)
+    correct = 'yes' if is_prime(num) else 'no'
     question = num
     return question, correct

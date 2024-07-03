@@ -1,6 +1,6 @@
 from brain_games.cli import greeting, get_answer
 
-MaxScore = 3
+MAX_SCORE = 3
 
 
 def game_run(game):
@@ -9,7 +9,7 @@ def game_run(game):
 
     score = 0
 
-    while score < MaxScore:
+    while score < MAX_SCORE:
 
         question, correct = game.run_game()
 
