@@ -1,4 +1,4 @@
-Training project "Brain Games" on the Python Hexlet course
+### Training project "Brain Games" on the Python Hexlet course
 
 [![Actions Status](https://github.com/kamusia/python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/kamusia/python-project-49/actions)
 
