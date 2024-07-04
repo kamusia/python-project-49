@@ -39,9 +39,10 @@ Enjoy playing and improving your cognitive skills with Brain Games!
 #### Brain even
 [![asciicast](https://asciinema.org/a/TAYb6mIeK5zQxebn33AaubRo9.svg)](https://asciinema.org/a/TAYb6mIeK5zQxebn33AaubRo9)
 #### Brain calc
-
-#### Brain GCD
-
+[![asciicast](https://asciinema.org/a/6UQriprfaggfmNFjjFhqjaRmQ.svg)](https://asciinema.org/a/6UQriprfaggfmNFjjFhqjaRmQ)
+#### Brain GCD 
+[![asciicast](https://asciinema.org/a/HeEvCLCuqWfIgssffrSwDLaSD.svg)](https://asciinema.org/a/HeEvCLCuqWfIgssffrSwDLaSD)
 #### Brain progression
-
+[![asciicast](https://asciinema.org/a/RL80z4VbPrIv1VNZTZb2lufs5.svg)](https://asciinema.org/a/RL80z4VbPrIv1VNZTZb2lufs5)
 #### Brain prime
+[![asciicast](https://asciinema.org/a/eyfcQrm6UnV35Mlut0yYqrvPI.svg)](https://asciinema.org/a/eyfcQrm6UnV35Mlut0yYqrvPI)
