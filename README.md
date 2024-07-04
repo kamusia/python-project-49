@@ -36,5 +36,12 @@ To start playing, simply choose a game from the list above and follow the instru
 
 Enjoy playing and improving your cognitive skills with Brain Games!
 ## Usage
-##### Brain even
+#### Brain even
 [![asciicast](https://asciinema.org/a/TAYb6mIeK5zQxebn33AaubRo9.svg)](https://asciinema.org/a/TAYb6mIeK5zQxebn33AaubRo9)
+#### Brain calc
+
+#### Brain GCD
+
+#### Brain progression
+
+#### Brain prime
