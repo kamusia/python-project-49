@@ -36,15 +36,15 @@ To start playing, simply choose a game from the list above and follow the instru
 
 Enjoy playing and improving your cognitive skills with Brain Games!
 ## Usage
-#### `brain-even
+#### brain-even
 [![asciicast](https://asciinema.org/a/TAYb6mIeK5zQxebn33AaubRo9.svg)](https://asciinema.org/a/TAYb6mIeK5zQxebn33AaubRo9)
-#### `brain-calc
+#### brain-calc
 [![asciicast](https://asciinema.org/a/6UQriprfaggfmNFjjFhqjaRmQ.svg)](https://asciinema.org/a/6UQriprfaggfmNFjjFhqjaRmQ)
-#### `brain-gcd 
+#### brain-gcd 
 [![asciicast](https://asciinema.org/a/HeEvCLCuqWfIgssffrSwDLaSD.svg)](https://asciinema.org/a/HeEvCLCuqWfIgssffrSwDLaSD)
-#### `brain-progression
+#### brain-progression
 [![asciicast](https://asciinema.org/a/RL80z4VbPrIv1VNZTZb2lufs5.svg)](https://asciinema.org/a/RL80z4VbPrIv1VNZTZb2lufs5)
-#### `brain-prime
+#### brain-prime
 [![asciicast](https://asciinema.org/a/eyfcQrm6UnV35Mlut0yYqrvPI.svg)](https://asciinema.org/a/eyfcQrm6UnV35Mlut0yYqrvPI)
 ---
 ### Thank you for attention!
