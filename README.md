@@ -1,10 +1,10 @@
-Training project "Brain Games" on the Python Hexlet course
+### Training project "Brain Games" on the Python Hexlet course
 
 [![Actions Status](https://github.com/kamusia/python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/kamusia/python-project-49/actions)
 
 <a href="https://codeclimate.com/github/kamusia/python-project-49/maintainability"><img src="https://api.codeclimate.com/v1/badges/e9bce50b304179da2025/maintainability" /></a>
 
-### Description
+## Description
 Welcome to Brain Games, a collection of 5 popular console games designed to challenge and entertain your mind. Test your logic, math skills, and pattern recognition with the following games:
 
 1. **Brain Even:** Guess if the given number is even or not.
@@ -15,13 +15,13 @@ Welcome to Brain Games, a collection of 5 popular console games designed to chal
 
 To start playing, simply choose a game from the list above and follow the instructions. Have fun challenging yourself and sharpening your brain with Brain Games!
 
-### Installation
+## Installation
 1. Clone this repository to your local machine.
 ```
 # via HTTPS:
->> git clone https://github.com/IgorGakhov/python-project-lvl1.git
+>> git clone https://github.com/kamusia/python-project-49.git
 # or via SSH
->> git clone git@github.com:IgorGakhov/python-project-lvl1.git
+>> git clone git@github.com:kamusia/python-project-49.git
 ```
 2. install the package with commands.
 ```
@@ -35,3 +35,16 @@ To start playing, simply choose a game from the list above and follow the instru
 ```
 
 Enjoy playing and improving your cognitive skills with Brain Games!
+## Usage
+#### brain-even
+[![asciicast](https://asciinema.org/a/TAYb6mIeK5zQxebn33AaubRo9.svg)](https://asciinema.org/a/TAYb6mIeK5zQxebn33AaubRo9)
+#### brain-calc
+[![asciicast](https://asciinema.org/a/6UQriprfaggfmNFjjFhqjaRmQ.svg)](https://asciinema.org/a/6UQriprfaggfmNFjjFhqjaRmQ)
+#### brain-gcd 
+[![asciicast](https://asciinema.org/a/HeEvCLCuqWfIgssffrSwDLaSD.svg)](https://asciinema.org/a/HeEvCLCuqWfIgssffrSwDLaSD)
+#### brain-progression
+[![asciicast](https://asciinema.org/a/RL80z4VbPrIv1VNZTZb2lufs5.svg)](https://asciinema.org/a/RL80z4VbPrIv1VNZTZb2lufs5)
+#### brain-prime
+[![asciicast](https://asciinema.org/a/eyfcQrm6UnV35Mlut0yYqrvPI.svg)](https://asciinema.org/a/eyfcQrm6UnV35Mlut0yYqrvPI)
+---
+### Thank you for attention!
