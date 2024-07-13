@@ -7,13 +7,6 @@ def greeting():  # приветствие
     print(f"Hello, {name}")
     return name
 
-# def welcome_user1():
-#    name = ''
-#    while name == '':
-#        print('May I have your name? ', end='')
-#        name = input()
-#        print(f"Hello, {name}")
-
 
 def get_answer(question):
     print(f"Question: {question}")
