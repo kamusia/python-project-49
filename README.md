@@ -46,5 +46,4 @@ Enjoy playing and improving your cognitive skills with Brain Games!
 [![asciicast](https://asciinema.org/a/RL80z4VbPrIv1VNZTZb2lufs5.svg)](https://asciinema.org/a/RL80z4VbPrIv1VNZTZb2lufs5)
 #### brain-prime
 [![asciicast](https://asciinema.org/a/eyfcQrm6UnV35Mlut0yYqrvPI.svg)](https://asciinema.org/a/eyfcQrm6UnV35Mlut0yYqrvPI)
----
 ### Thank you for attention!
