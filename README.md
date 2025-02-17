@@ -23,10 +23,9 @@ To start playing, simply choose a game from the list above and follow the instru
 # or via SSH
 >> git clone git@github.com:kamusia/python-project-49.git
 ```
-2. install the package with commands.
+2. install the package with command.
 ```
->> poetry build
->> python3 -m pip install --user dist/*.whl
+>> make setup
 ```
 3. Run the games using the command brain-<game_name>.
 ```
